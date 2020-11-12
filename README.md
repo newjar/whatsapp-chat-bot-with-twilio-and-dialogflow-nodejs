@@ -35,6 +35,8 @@ $ npm run dev
 * then fill your http post url whatsapp sandbox setting in Twilio, i.e `https://20e86405b0ee.ngrok.io/api/v1/bot`. don't forget to add `/api/v1/bot` and just leave it blank for status callback url.
 * then fill your Fulfillment URL in Dialogflow, i.e `https://20e86405b0ee.ngrok.io` without `/api/v1/bot`.
 
+* sample bot
+![image info](./sample-bot.png)
 
 
 ### Enjoy! :)
